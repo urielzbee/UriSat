@@ -1,0 +1,16 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"U1";"LQFP-48_7x7mm_P0.5mm";1;"STM32F103C8Tx";;;
+2;"Y1";"Crystal_HC18-U_Vertical";1;"8MHz";;;
+3;"U2";"SOT-23-5";1;"AP2112K-3.3";;;
+4;"S1";"SW_SPST_Omron_B3FS-100xP";1;"KS-01Q-01_Obsolete";;;
+5;"R4";"R_0805_2012Metric";1;"550";;;
+6;"R3,R2,R1";"R_0805_2012Metric";3;"10K";;;
+7;"J5";"1X02";1;"CONN_02";;;
+8;"J4";"1X03";1;"CONN_03";;;
+9;"J3,J2";"1X16";2;"CONN_16";;;
+10;"J1";"PinHeader_2x05_P1.27mm_Vertical";1;"Conn_ARM_JTAG_SWD_10";;;
+11;"D1";"LED_0805_2012Metric";1;"LED";;;
+12;"C9,C8,C7";"C_0805_2012Metric";3;"100nF";;;
+13;"C6";"C_0805_2012Metric";1;"1nF";;;
+14;"C5,C2,C1";"C_0805_2012Metric";3;"1uF";;;
+15;"C4,C3";"C_0805_2012Metric";2;"20pF";;;

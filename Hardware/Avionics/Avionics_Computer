@@ -1,0 +1,16 @@
+Reference, Quantity, Value, Footprint, MPN,Price,Total Price,Part Page
+C3 C4 ,2,20pF,Capacitor_SMD:C_0805_2012Metric,C0805X200J5GACTU ,$0.484,$0.968,https://www.mouser.mx/ProductDetail/KEMET/C0805X200J5GACTU/?qs=ds50AKTGxA86m%2FR%252BJZp0Gw%3D%3D
+C1 C2 C5,3,1uF,Capacitor_SMD:C_0805_2012Metric,C0805C105K3RACTU ,$0.169,$0.507,https://www.mouser.mx/ProductDetail/KEMET/C0805C105K3RACTU/?qs=7V%2FSUxyM1Kfm2X%2FN09twSA%3D%3D
+C6 C7 C8 C9 ,4,100nF,Capacitor_SMD:C_0805_2012Metric,VJ0805D0R1BXPAJHT ,$0.520,$2.080,https://www.mouser.mx/ProductDetail/Vishay-Vitramon/VJ0805D0R1BXPAJHT/?qs=HXFqYaX1Q2ys%2Fz3sbYQ8tQ%3D%3D
+D1 ,1,LED,LED_SMD:LED_0805_2012Metric,150080RS75000 ,$0.234,$0.234,https://www.mouser.mx/ProductDetail/Wurth-Elektronik/150080RS75000/?qs=LlUlMxKIyB2jdCo7bnfgew%3D%3D
+J1 ,1,Conn_ARM_JTAG_SWD_10,Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical,,$0.000,$0.000,
+J2 J3 ,2,CONN_16,Connectors:1X16,,$0.000,$0.000,
+J4 ,1,CONN_03,Connectors:1X03,,$0.000,$0.000,
+J5 ,1,CONN_02,Connectors:1X02,,$0.000,$0.000,
+R1 R2 R3 ,3,10K,Resistor_SMD:R_0805_2012Metric,RK73B2ATTD103J ,$0.130,$0.390,https://www.mouser.mx/ProductDetail/KOA-Speer/RK73B2ATTD103J/?qs=%2Fha2pyFaduhcnQkibzv07rXdBXBXw%252BneR%252BrTVYhRVbWOLPo9mMMi6A%3D%3D
+R4 ,1,550,Resistor_SMD:R_0805_2012Metric,RK73B2ATTD561J ,$0.130,$0.130,https://www.mouser.mx/ProductDetail/KOA-Speer/RK73B2ATTD561J/?qs=x6r%252Bo0AEKUDFK1pbBqwY%252Bg%3D%3D
+S1 ,1,KS-01Q-01_Obsolete,Button_Switch_SMD:SW_SPST_Omron_B3FS-100xP,LL3301NF065QG ,$0.676,$0.676,https://www.mouser.mx/ProductDetail/E-Switch/LL3301NF065QG/?qs=QtyuwXswaQiWhwgY68YTTw%3D%3D
+U1 ,1,STM32F103C8Tx,Package_QFP:LQFP-48_7x7mm_P0.5mm,STM32F303C8T6 ,$6.140,$6.140,https://www.mouser.mx/ProductDetail/STMicroelectronics/STM32F303C8T6?qs=s5SkPsIz10%2Fkobzkh1AwOg%3D%3D
+U2 ,1,AP2112K-3.3,Package_TO_SOT_SMD:SOT-23-5,MIC5504-3.3YM5-TR ,$0.156,$0.156,https://www.mouser.mx/ProductDetail/Microchip-Technology-Micrel/MIC5504-33YM5-TR?qs=U6T8BxXiZAUmVQ5Zs217qQ%3D%3D
+Y1 ,1,8MHz,Crystal:Crystal_HC18-U_Vertical,ABL-8.000MHZ-B2 ,$0.416,$0.416,
+,,,,Total,$9.055,$11.697,
